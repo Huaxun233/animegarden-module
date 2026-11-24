@@ -1,0 +1,12 @@
+{
+  "id": "animegarden",
+  "name": "AnimeGarden",
+  "version": "1.0.0",
+  "description": "动漫BT资源聚合（dmhy/moe/mikan），搜索返回磁力链，需外部播放器或支持BT的播放环境",
+  "runtime": "js",
+  "api": 1,
+  "adult": false,
+  "hosts": ["api.animes.garden"],
+  "capabilities": ["search"],
+  "allowEmptyCatalog": false
+}
